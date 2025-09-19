@@ -74,5 +74,3 @@ Insurance companies often face challenges consolidating policy and claim data sc
 
 ---
 
-## 📂 Repository Structure
-
