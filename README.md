@@ -12,7 +12,7 @@ Insurance companies often face challenges consolidating policy and claim data sc
 
 ## 📸 Dashboard Preview
 
-![Insurance Dashboard Overview](./dashboard-screenshots/insurance-dashboard-main.png)
+![Insurance Dashboard Overview](https://github.com/shanmukhsaibada/PowerBI_Insurance_Risk_Analysis_P6/blob/main/InsuranceAnalysis.PNG)
 
 ## 🎯 Key Objectives
 
